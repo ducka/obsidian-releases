@@ -28558,5 +28558,12 @@
     "author": "gs-ax",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Sync Confluence pages to your Vault",
     "repo": "gs-ax/confluence-weaver"
+  },
+  {
+    "id": "github-slug-resolver",
+    "name": "GitHub Slug Resolver",
+    "author": "Lucas Martin",
+    "description": "Navigate GitHub-style heading anchors in Obsidian without modifying file content.",
+    "repo": "ducka/obsidian-github-slug-resolver"
   }
 ]
